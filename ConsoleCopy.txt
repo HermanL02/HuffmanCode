@@ -1,0 +1,11 @@
+Enter the filename to read from/encode: C:\Users\80595\eclipse-workspace\CSCI2110\src\Assignment4\Pokemon.txt
+Enter the file name to store Huffman codes
+C:\Users\80595\eclipse-workspace\CSCI2110\src\Assignment4\Huffman.txt
+Codes generated.Printing codes to Huffman.txt
+Enter the file name to store the encoded text:
+C:\Users\80595\eclipse-workspace\CSCI2110\src\Assignment4\Encoded.txt
+Printing encoded text to Encoded.txt
+Enter the filename to read from/decode: C:\Users\80595\eclipse-workspace\CSCI2110\src\Assignment4\Encoded.txt
+Enter the filename of document containing Huffman codes: C:\Users\80595\eclipse-workspace\CSCI2110\src\Assignment4\Huffman.txt
+Enter the filename of decode.txt: C:\Users\80595\eclipse-workspace\CSCI2110\src\Assignment4\Decoded.txt
+printing decoded text to decoded.txt
